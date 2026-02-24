@@ -7,59 +7,59 @@
 # margin: (downwards pixel margin as integer)
 
 <margin>8
-<title>Developers:
+<title>Desenvolvedores:
 <hr>Silveros
-<sbtxt>Creator of ReIndev, Lead Developer
+<sbtxt>Criadora do ReIndev,  Líder de Desenvolvimento
 <hr>DasJafss
-<sbtxt>Co-Lead Developer
+<sbtxt>Co-líder de desenvolvimento
 <hr>Fox2Code
-<sbtxt>Developer
+<sbtxt>Desenvolvedora
 <hr>icanttellyou
-<sbtxt>Developer
+<sbtxt>Desenvolvedore
 <hr>Zero_DSRS_VX
-<sbtxt>Developer
+<sbtxt>Desenvolvedor
 <hr>kivattt
-<sbtxt>Developer
+<sbtxt>Desenvolvedore
 <hr>LemoCoffee
-<sbtxt>Developer
+<sbtxt>Desenvolvedora
 #
 # sound credits
 #
 <margin>12
-<title>Sound and Music:
+<title>Som e Música:
 <hr>C418
-<sbtxt>Music
+<sbtxt>Música
 <hr>Lena Raine
-<sbtxt>Music
+<sbtxt>Música
 <hr>Axel Scaar
-<sbtxt>Music
+<sbtxt>Música
 <hr>Markus Alexei Persson
-<sbtxt>Music
+<sbtxt>Música
 <hr>Freesound.org
-<sbtxt>Sound FX
+<sbtxt>Efeitos Sonoros
 #
 # other credits
 #
 <margin>12
-<title>Additional credits:
+<title>Créditos adicionais:
 <hr>jonkadelic
-<sbtxt>Creator of Photo Mode
+<sbtxt>Criador do Modo Fotográfico
 <hr>jss2a98aj
-<sbtxt>Creator of BugTorch
+<sbtxt>Criador do BugTorch
 <hr>Captain_S0L0
-<sbtxt>Improved GUI item movement code
+<sbtxt>Melhorias no código da GUI
 <hr>M17Glock
-<sbtxt>Helped with improving trapdoor code
+<sbtxt>Ajudou melhorando o código dos alçapões
 <hr>na_th_an
-<sbtxt>Helped with expanding the texture index
+<sbtxt>Ajudou expandindo o índice de texturas
 <hr>alexcrish
-<sbtxt>Inspiration for leaf and blossom particles
+<sbtxt>Inspiração pelas partículas de folhas e flores
 <hr>Tocinin
-<sbtxt>Improved "Merp" painting texture
+<sbtxt>Melhorou a textura da pintura "Merp"
 <hr>DiamondDump
-<sbtxt>Helped with Stroldian & Demon models
+<sbtxt>Ajudou com os modelos do Stroldian e Demônios
 <hr>boymoderAscetic
-<sbtxt>Retired developer
+<sbtxt>Desenvolvedora aposentada
 #
 # playtesters
 #
@@ -112,7 +112,10 @@
 <hr>worldtrademark
 <sbtxt>xamer212
 <margin>16
-<title>Honorable mentions:
+#
+# menções honrosas
+#
+<title>Menções Honrosas:
 <hr>MrZmiley
 <sbtxt>Arenovas
 <hr>MrLordSith
